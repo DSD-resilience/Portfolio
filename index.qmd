@@ -2,6 +2,5 @@
 title: "Portfolio"
 ---
 
-These are the ways that you can gain strategic insights.
+Shiny apps are a great way that you can gain strategic insights from your data sets and experiments.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
