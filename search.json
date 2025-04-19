@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Shiny apps are a great way that you can gain strategic insights from your data sets and experiments.\nA popular Shiny app is one that can visually display the distribution of a data sample and change in real time based on user input."
+    "text": "Shiny apps are a great way that you can gain strategic insights from your data sets and experiments.\nA popular Shiny app is one that can visually display the distribution of a data sample and change in real time based on user input. It is possible because of reactivity."
   }
 ]
