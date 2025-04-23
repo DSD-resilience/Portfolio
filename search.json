@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Shiny apps are a great way that you can gain strategic insights from your data sets and experiments.\nFor example, a useful Shiny app is one that can visually display the distribution of a data sample and change in real time based on user input."
+    "text": "This section features a selection of Shiny apps I’ve built, each designed to make data exploration and analysis more interactive. These apps cover a range of domains—from healthcare dashboards to predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
   }
 ]
