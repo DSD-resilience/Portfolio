@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: machine learning.qmd
+        text: Machine Learning
 
 format:
   html:
