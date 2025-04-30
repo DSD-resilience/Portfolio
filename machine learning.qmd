@@ -2,3 +2,7 @@
 title: "Machine Learning"
 editor: visual
 ---
+
+**Machine learning** is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
+
+I found a data set that... (project each for regression, classification and clustering)
