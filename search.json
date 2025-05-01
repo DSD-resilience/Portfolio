@@ -11,7 +11,7 @@
     "href": "machine learning.html",
     "title": "Machine Learning",
     "section": "",
-    "text": "Machine learning is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nI found a data set that… (project each for regression, classification and clustering)"
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nML projects can benefit from a standardized work flow. I divide my work flow into three phases:\nConduct EDA on Gapminder data set\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)"
   },
   {
     "objectID": "about.html",
