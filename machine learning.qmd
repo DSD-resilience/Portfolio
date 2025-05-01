@@ -3,6 +3,10 @@ title: "Machine Learning"
 editor: visual
 ---
 
-**Machine learning** is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
+**Machine learning** (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
 
-I found a data set that... (project each for regression, classification and clustering)
+ML projects can benefit from a standardized work flow. I divide my work flow into three phases:
+
+Conduct EDA on Gapminder data set
+
+Once an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)
