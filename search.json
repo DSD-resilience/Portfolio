@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "machine learning.html",
+    "href": "machine learning.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized work flow leads to better outcomes. I divide my work flow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nConduct EDA on Gapminder data set\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
     "text": "This section features a selection of Shiny apps I’ve built, each designed to make data exploration and analysis more interactive. These apps cover a range of domains—from healthcare dashboards to predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
-  },
-  {
-    "objectID": "machine learning.html",
-    "href": "machine learning.html",
-    "title": "Machine Learning",
-    "section": "",
-    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nML projects can benefit from a standardized work flow. I divide my work flow into three phases:\nConduct EDA on Gapminder data set\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)"
   },
   {
     "objectID": "about.html",
