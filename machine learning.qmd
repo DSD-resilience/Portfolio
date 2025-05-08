@@ -5,7 +5,13 @@ editor: visual
 
 **Machine learning** (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
 
-ML projects can benefit from a standardized work flow. I divide my work flow into three phases:
+A standardized work flow leads to better outcomes. I divide my work flow into three phases:
+
+1.  Plan, collect and clean
+
+2.  Explore, model and validate
+
+3.  Communicate, reproduce and deploy
 
 Conduct EDA on Gapminder data set
 
