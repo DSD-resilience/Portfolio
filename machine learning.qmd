@@ -13,7 +13,7 @@ A standardized work flow leads to better outcomes. It is helpful to divide a wor
 
 3.  Communicate, reproduce and deploy
 
-Phase One: Plan, Collect, Clean
+**Phase One:** Plan, Collect, Clean
 
 EDA on Gapminder data set
 
