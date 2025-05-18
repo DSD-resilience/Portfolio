@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "This section features a selection of Shiny apps I’ve built, each designed to make data exploration and analysis more interactive. These apps cover a range of domains—from healthcare dashboards to predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
-  },
-  {
     "objectID": "machine learning.html",
     "href": "machine learning.html",
     "title": "Machine Learning",
     "section": "",
-    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized work flow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nPhase One: Plan, Collect, Clean\nThe planning part can be straight forward.\nEDA on Gapminder data set\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)"
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized work flow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nPhase One: Plan, Collect, Clean\nThe planning part can be straight forward.\nEDA on Gapminder data set\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
   },
   {
     "objectID": "about.html",
@@ -19,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section features a selection of Shiny apps I’ve built, each designed to make data exploration and analysis more interactive. These apps cover a range of domains—from healthcare dashboards to predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
   }
 ]
