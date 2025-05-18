@@ -20,3 +20,5 @@ The planning part can be straight forward.
 EDA on Gapminder data set
 
 Once an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)
+
+**Phase Two:**
