@@ -5,7 +5,7 @@ editor: visual
 
 **Machine learning** (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
 
-A standardized work flow leads to better outcomes. It is helpful to divide a workflow into three phases:
+A standardized [workflow](https://medium.com/@datascientistdude/what-is-workflow-anyway-46121fad0d4f) leads to better outcomes. It is helpful to divide a workflow into three phases:
 
 1.  Plan, collect and clean
 
@@ -13,11 +13,11 @@ A standardized work flow leads to better outcomes. It is helpful to divide a wor
 
 3.  Communicate, reproduce and deploy
 
+Let's use an example with the Gapminder data set
+
 **Phase One:** Plan, Collect, Clean
 
-The planning part can be straight forward.
-
-EDA on Gapminder data set
+The planning part consists of asking what you want to achieve and then refining how you do that.
 
 Once an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)
 
