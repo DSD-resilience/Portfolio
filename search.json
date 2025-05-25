@@ -4,7 +4,7 @@
     "href": "machine learning.html",
     "title": "Machine Learning",
     "section": "",
-    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized work flow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nPhase One: Plan, Collect, Clean\nThe planning part can be straight forward.\nEDA on Gapminder data set\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
   },
   {
     "objectID": "about.html",
