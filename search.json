@@ -14,38 +14,80 @@
     "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
   },
   {
-    "objectID": "Linear Regression.html",
-    "href": "Linear Regression.html",
-    "title": "Linear Regression",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset."
-  },
-  {
-    "objectID": "Linear Regression.html#introduction",
-    "href": "Linear Regression.html#introduction",
-    "title": "Linear Regression",
-    "section": "",
-    "text": "This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset."
-  },
-  {
-    "objectID": "Linear Regression.html#data-overview",
-    "href": "Linear Regression.html#data-overview",
-    "title": "Linear Regression",
-    "section": "📊 Data Overview",
-    "text": "📊 Data Overview"
+    "text": "This is a selection of project I’ve built, each designed to make data exploration and analysis more accessible to decison makers. They cover a range of domains—from international affairs, to healthcare dashboards and predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "👋 Hi, I’m JT, aka @DSD-resilience, because resilience is a one of the key values of my digital products firm, DSD.\n👀 I’m interested in AI-ML, Shiny apps, statistics, and cyber resiliency.\n🌱 I’m always learning more R, Python and SQL.\n💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.\n📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.\n😄 Dad Joke of the Day: What birthday only lasts a minute? Your 62nd birthday!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio",
+    "objectID": "linear regression.html",
+    "href": "linear regression.html",
+    "title": "Linear Regression",
     "section": "",
-    "text": "This section features a selection of project I’ve built, each designed to make data exploration and analysis more accessible to decison makers. These cover a range of domains—from international affairs, to healthcare dashboards and predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
+    "text": "This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset."
+  },
+  {
+    "objectID": "linear regression.html#introduction",
+    "href": "linear regression.html#introduction",
+    "title": "Linear Regression",
+    "section": "",
+    "text": "This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset."
+  },
+  {
+    "objectID": "linear regression.html#data-overview",
+    "href": "linear regression.html#data-overview",
+    "title": "Linear Regression",
+    "section": "📊 Data Overview",
+    "text": "📊 Data Overview"
+  },
+  {
+    "objectID": "linear regression.html#exploratory-data-analysis",
+    "href": "linear regression.html#exploratory-data-analysis",
+    "title": "Linear Regression",
+    "section": "🔎 Exploratory Data Analysis",
+    "text": "🔎 Exploratory Data Analysis"
+  },
+  {
+    "objectID": "linear regression.html#linear-regression-model",
+    "href": "linear regression.html#linear-regression-model",
+    "title": "Linear Regression",
+    "section": "📈 Linear Regression Model",
+    "text": "📈 Linear Regression Model"
+  },
+  {
+    "objectID": "linear regression.html#diagnostic-plots",
+    "href": "linear regression.html#diagnostic-plots",
+    "title": "Linear Regression",
+    "section": "📉 Diagnostic Plots",
+    "text": "📉 Diagnostic Plots"
+  },
+  {
+    "objectID": "linear regression.html#interpretation",
+    "href": "linear regression.html#interpretation",
+    "title": "Linear Regression",
+    "section": "🧠 Interpretation",
+    "text": "🧠 Interpretation\nIntercept: Average life expectancy at log(GDP) = 0.\nSlope: Life expectancy increases by ~r round(coef(model)[2], 2) years for each unit increase in log(GDP per capita).\nR-squared: r round(summary(model)$r.squared, 2) indicates the proportion of variance explained."
+  },
+  {
+    "objectID": "linear regression.html#limitations",
+    "href": "linear regression.html#limitations",
+    "title": "Linear Regression",
+    "section": "⚠️ Limitations",
+    "text": "⚠️ Limitations\nGDP is not the only factor.\nSocial, environmental, and political factors are omitted.\nOutliers and skew can influence the model."
+  },
+  {
+    "objectID": "linear regression.html#conclusion",
+    "href": "linear regression.html#conclusion",
+    "title": "Linear Regression",
+    "section": "✅ Conclusion",
+    "text": "✅ Conclusion\nThis model suggests a strong relationship between economic wealth and life expectancy, though causality cannot be inferred from this analysis alone."
   }
 ]

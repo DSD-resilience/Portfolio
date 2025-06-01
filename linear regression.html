@@ -102,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Machine Learning</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./Linear Regression.html" aria-current="page"> 
+    <a class="nav-link active" href="./linear regression.html" aria-current="page"> 
 <span class="menu-text">Linear Regression</span></a>
   </li>  
 </ul>
@@ -123,6 +123,12 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">🌍 Introduction</a></li>
   <li><a href="#data-overview" id="toc-data-overview" class="nav-link" data-scroll-target="#data-overview">📊 Data Overview</a></li>
+  <li><a href="#exploratory-data-analysis" id="toc-exploratory-data-analysis" class="nav-link" data-scroll-target="#exploratory-data-analysis">🔎 Exploratory Data Analysis</a></li>
+  <li><a href="#linear-regression-model" id="toc-linear-regression-model" class="nav-link" data-scroll-target="#linear-regression-model">📈 Linear Regression Model</a></li>
+  <li><a href="#diagnostic-plots" id="toc-diagnostic-plots" class="nav-link" data-scroll-target="#diagnostic-plots">📉 Diagnostic Plots</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">🧠 Interpretation</a></li>
+  <li><a href="#limitations" id="toc-limitations" class="nav-link" data-scroll-target="#limitations">⚠️ Limitations</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">✅ Conclusion</a></li>
   </ul>
 </nav>
     </div>
@@ -154,6 +160,31 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="data-overview" class="level2">
 <h2 class="anchored" data-anchor-id="data-overview">📊 Data Overview</h2>
+</section>
+<section id="exploratory-data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="exploratory-data-analysis">🔎 Exploratory Data Analysis</h2>
+</section>
+<section id="linear-regression-model" class="level2">
+<h2 class="anchored" data-anchor-id="linear-regression-model">📈 Linear Regression Model</h2>
+</section>
+<section id="diagnostic-plots" class="level2">
+<h2 class="anchored" data-anchor-id="diagnostic-plots">📉 Diagnostic Plots</h2>
+</section>
+<section id="interpretation" class="level2">
+<h2 class="anchored" data-anchor-id="interpretation">🧠 Interpretation</h2>
+<p><strong>Intercept</strong>: Average life expectancy at log(GDP) = 0.</p>
+<p><strong>Slope</strong>: Life expectancy increases by ~<code>r round(coef(model)[2], 2)</code> years for each unit increase in log(GDP per capita).</p>
+<p><strong>R-squared</strong>: <code>r round(summary(model)$r.squared, 2)</code> indicates the proportion of variance explained.</p>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">⚠️ Limitations</h2>
+<p>GDP is not the only factor.</p>
+<p>Social, environmental, and political factors are omitted.</p>
+<p>Outliers and skew can influence the model.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">✅ Conclusion</h2>
+<p>This model suggests a strong relationship between economic wealth and life expectancy, though causality cannot be inferred from this analysis alone.</p>
 
 
 </section>
