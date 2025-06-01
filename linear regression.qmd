@@ -1,0 +1,71 @@
+---
+title: "Linear Regression"
+editor: visual
+---
+
+```{r setup, include=FALSE}
+install.packages('tidyverse','gapminder','broom','ggplot2')
+library(tidyverse)
+library(gapminder)
+library(broom)
+library(ggplot2)
+```
+
+## 🌍 Introduction
+
+This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset.
+
+## 📊 Data Overview
+
+```{r}
+data <- gapminder %>% filter(year == 2007)
+
+summary(data)
+```
+
+## 🔎 Exploratory Data Analysis
+
+```{r}
+ggplot(data, aes(x = gdpPercap, y = lifeExp)) +
+  geom_point(alpha = 0.6, color = "darkgreen") +
+  scale_x_log10() +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(title = "Life Expectancy vs. GDP per Capita",
+       x = "GDP per Capita (log scale)",
+       y = "Life Expectancy")
+```
+
+## 📈 Linear Regression Model
+
+```{r}
+model <- lm(lifeExp ~ log(gdpPercap), data = data)
+summary(model)
+tidy(model)
+```
+
+## 📉 Diagnostic Plots
+
+```{r}
+par(mfrow = c(2, 2))
+plot(model)
+```
+
+## 🧠 Interpretation
+
+**Intercept**: Average life expectancy at log(GDP) = 0.
+
+**Slope**: Life expectancy increases by \~`r round(coef(model)[2], 2)` years for each unit increase in log(GDP per capita).
+
+**R-squared**: `r round(summary(model)$r.squared, 2)` indicates the proportion of variance explained.
+
+## ⚠️ Limitations
+
+GDP is not the only factor.
+
+Social, environmental, and political factors are omitted.
+
+Outliers and skew can influence the model.
+
+## ✅ Conclusion
+
+This model suggests a strong relationship between economic wealth and life expectancy, though causality cannot be inferred from this analysis alone.

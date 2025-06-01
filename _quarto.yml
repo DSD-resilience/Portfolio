@@ -10,8 +10,8 @@ website:
         text: Home
       - about.qmd
       - href: machine learning.qmd
-        text: Machine Learning
-      - href: Linear Regression.qmd
+        text: Machine Learning Defined
+      - href: linear regression.qmd
         text: Linear Regression
 
 format:
