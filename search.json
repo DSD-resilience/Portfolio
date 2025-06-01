@@ -7,6 +7,34 @@
     "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
   },
   {
+    "objectID": "machine learning.html#introduction",
+    "href": "machine learning.html#introduction",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
+  },
+  {
+    "objectID": "Linear Regression.html",
+    "href": "Linear Regression.html",
+    "title": "Linear Regression",
+    "section": "",
+    "text": "This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset."
+  },
+  {
+    "objectID": "Linear Regression.html#introduction",
+    "href": "Linear Regression.html#introduction",
+    "title": "Linear Regression",
+    "section": "",
+    "text": "This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset."
+  },
+  {
+    "objectID": "Linear Regression.html#data-overview",
+    "href": "Linear Regression.html#data-overview",
+    "title": "Linear Regression",
+    "section": "📊 Data Overview",
+    "text": "📊 Data Overview"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -18,6 +46,6 @@
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "This section features a selection of Shiny apps I’ve built, each designed to make data exploration and analysis more interactive. These apps cover a range of domains—from healthcare dashboards to predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
+    "text": "This section features a selection of project I’ve built, each designed to make data exploration and analysis more accessible to decison makers. These cover a range of domains—from international affairs, to healthcare dashboards and predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
   }
 ]
