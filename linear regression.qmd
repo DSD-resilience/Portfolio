@@ -3,12 +3,7 @@ title: "Linear Regression"
 editor: visual
 ---
 
-```{r setup, include=FALSE}
-install.packages('tidyverse','gapminder','broom','ggplot2')
-library(tidyverse)
-library(gapminder)
-library(broom)
-library(ggplot2)
+```{}
 ```
 
 ## 🌍 Introduction

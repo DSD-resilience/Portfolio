@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "project",
+    "title": "Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a selection of project I’ve built, each designed to make data exploration and analysis more accessible to decison makers. They cover a range of domains—from international affairs, to healthcare dashboards and predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
   },
   {
     "objectID": "about.html",
