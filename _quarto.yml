@@ -11,6 +11,8 @@ website:
       - about.qmd
       - href: machine learning.qmd
         text: Machine Learning
+      - href: Linear Regression.qmd
+        text: Linear Regression
 
 format:
   html:

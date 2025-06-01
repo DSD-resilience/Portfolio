@@ -2,4 +2,4 @@
 title: "Portfolio"
 ---
 
-This section features a selection of Shiny apps I've built, each designed to make data exploration and analysis more interactive. These apps cover a range of domains—from healthcare dashboards to predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples. 
+This section features a selection of project I've built, each designed to make data exploration and analysis more accessible to decison makers. These cover a range of domains—from international affairs, to healthcare dashboards and predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples. 
