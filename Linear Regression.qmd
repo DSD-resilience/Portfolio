@@ -8,3 +8,11 @@ editor: visual
 This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset.
 
 ## 📊 Data Overview
+
+```{r}
+
+
+data <- gapminder %>% filter(year == 2007)
+
+summary(data)
+```

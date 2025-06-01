@@ -1,5 +1,15 @@
 ---
 title: "About"
 ---
+👋 Hi, I’m JT, aka @DSD-resilience, because resilience is a one of the key values of my digital products firm, DSD.
 
-About this site
+👀 I’m interested in AI-ML, Shiny apps, statistics, and cyber resiliency.
+
+🌱 I’m always learning more R, Python and SQL.
+
+💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.
+
+📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.
+
+😄 Dad Joke of the Day: What birthday only lasts a minute? Your 62nd birthday!
+
