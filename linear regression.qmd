@@ -5,9 +5,11 @@ editor: visual
 
 ## 🌍 Introduction
 
-This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the Gapminder dataset.
+This report investigates the relationship between a country’s GDP per capita and its average life expectancy using linear regression. Data is sourced from the **Gapminder dataset**.
 
 ## 📊 Data Overview
+
+The Gapminder dataset tracks global development indicators across countries and over time. It was popularized by Hans Rosling and the Gapminder Foundation to promote a fact-based worldview using animated data visualizations.
 
 ## 🔎 Exploratory Data Analysis
 
