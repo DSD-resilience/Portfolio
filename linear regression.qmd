@@ -13,6 +13,8 @@ The Gapminder dataset tracks global development indicators across countries and 
 
 ## 🔎 Exploratory Data Analysis
 
+An exploratory data analysis (EDA) involves using various statistical and visual methods to understand the main characteristics of this dataset.
+
 ## 📈 Linear Regression Model
 
 ## 📉 Diagnostic Plots
