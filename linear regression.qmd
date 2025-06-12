@@ -13,7 +13,19 @@ The Gapminder dataset tracks global development indicators across countries and 
 
 ## 🔎 Exploratory Data Analysis
 
-An exploratory data analysis (EDA) involves using various statistical and visual methods to understand the main characteristics of this dataset.
+An exploratory data analysis (EDA) involves using various statistical and visual methods to understand the main characteristics of this dataset. There are 1704 rows and 6 columns. Each column has a characteristic.
+
+country – Name of the country
+
+continent – Continent where the country is located
+
+year – Year of the observation
+
+lifeExp – Life expectancy
+
+pop – Population
+
+gdpPercap – GDP per capita
 
 ## 📈 Linear Regression Model
 
