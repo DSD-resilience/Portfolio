@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "machine learning.html",
-    "href": "machine learning.html",
-    "title": "Machine Learning",
-    "section": "",
-    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
-  },
-  {
-    "objectID": "machine learning.html#introduction",
-    "href": "machine learning.html#introduction",
-    "title": "Machine Learning",
-    "section": "",
-    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
     "text": "This is a selection of project I’ve built, each designed to make data exploration and analysis more accessible to decison makers. They cover a range of domains—from international affairs, to healthcare dashboards and predictive tools—and highlight my skills in R, UI design, and user-centered development. Click into each project to explore the functionality and see code samples."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "👋 Hi, I’m JT, aka @DSD-resilience, because resilience is a one of the key values of my digital products firm, DSD.\n👀 I’m interested in AI-ML, Shiny apps, statistics, and cyber resiliency.\n🌱 I’m always learning more R, Python and SQL.\n💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.\n📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.\n😄 Dad Joke of the Day: What birthday only lasts a minute? Your 62nd birthday!"
   },
   {
     "objectID": "linear regression.html",
@@ -53,7 +32,7 @@
     "href": "linear regression.html#exploratory-data-analysis",
     "title": "Linear Regression",
     "section": "🔎 Exploratory Data Analysis",
-    "text": "🔎 Exploratory Data Analysis\nAn exploratory data analysis (EDA) involves using various statistical and visual methods to understand the main characteristics of this dataset."
+    "text": "🔎 Exploratory Data Analysis\nAn exploratory data analysis (EDA) involves using various statistical and visual methods to understand the main characteristics of this dataset. There are 1704 rows and 6 columns. Each column has a characteristic.\ncountry – Name of the country\ncontinent – Continent where the country is located\nyear – Year of the observation\nlifeExp – Life expectancy\npop – Population\ngdpPercap – GDP per capita"
   },
   {
     "objectID": "linear regression.html#linear-regression-model",
@@ -89,5 +68,26 @@
     "title": "Linear Regression",
     "section": "✅ Conclusion",
     "text": "✅ Conclusion\nThis model suggests a strong relationship between economic wealth and life expectancy, though causality cannot be inferred from this analysis alone."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "👋 Hi, I’m JT, aka @DSD-resilience, because resilience is a one of the key values of my digital products firm, DSD.\n👀 I’m interested in AI-ML, Shiny apps, statistics, and cyber resiliency.\n🌱 I’m always learning more R, Python and SQL.\n💞️ I’m looking to collaborate on Shiny apps for enterprise, dashboards for strategic insights, statistical analysis and data cleaning.\n📫 How to reach me: millerauthor@datascientistdude.com for business inquiries please.\n😄 Dad Joke of the Day: What birthday only lasts a minute? Your 62nd birthday!"
+  },
+  {
+    "objectID": "machine learning.html",
+    "href": "machine learning.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
+  },
+  {
+    "objectID": "machine learning.html#introduction",
+    "href": "machine learning.html#introduction",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Machine learning (ML) is a branch of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed.\nA standardized workflow leads to better outcomes. It is helpful to divide a workflow into three phases:\n\nPlan, collect and clean\nExplore, model and validate\nCommunicate, reproduce and deploy\n\nLet’s use an example with the Gapminder data set\nPhase One: Plan, Collect, Clean\nThe planning part consists of asking what you want to achieve and then refining how you do that.\nOnce an EDA is complete, a natural model to use first is linear regression. (project each for regression, classification and clustering)\nPhase Two:"
   }
 ]
